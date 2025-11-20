@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "EduMitra",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "EduM",
+  "start_url": "/https://youdontknowmeap.github.io/EduMitra_p/",
+  "theme_color": "#ffffff"
+}
